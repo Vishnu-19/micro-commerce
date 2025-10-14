@@ -1,4 +1,4 @@
-# MicroCommerce: Scalable E-Commerce
+# MicroCommerce: A Microservices-based E-Commerce Platform
 
 A microservices-based e-commerce application built with Spring Boot and Angular. This project showcases a scalable architecture with independent services for product management, ordering, inventory tracking, notifications, and API gateway handling. Future enhancements include monitoring with Grafana Stack and deployment with Kubernetes.
 
